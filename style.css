@@ -846,4 +846,7 @@ footer a:hover{
   #about-head .video{
     width: 100%;
   }
+  .copyright{
+    text-align: center;
+  }
 }
